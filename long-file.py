@@ -15,6 +15,6 @@ if a == 6:
 if a == 7:
     print(7)
 if a == 8:
-    print(7)
-if a == 9:
     print(8)
+if a == 9:
+    print(9)
